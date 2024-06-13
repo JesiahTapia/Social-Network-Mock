@@ -1,0 +1,17 @@
+.SideBarFriends {
+    display: flex;
+    align-items: center;
+    margin-bottom: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.SideBarFriends:hover {
+background-color: #d3d0d0;
+}
+.SideBarFriendimg {
+    border-radius: 50% !important;
+    object-fit: cover;
+    margin-right: 10px;
+    
+}

@@ -1,0 +1,21 @@
+.RightBar{
+    flex: 3;
+}
+.RightBarWrap {
+    padding: 20px 20px 0 0;
+}
+.BirthdayContainer {
+    display: flex;
+    align-items: center;
+}
+
+.BirthdayImg {
+margin-right: 12px;
+cursor: pointer;
+object-fit: cover;
+}
+.BirthdayText {
+    font-weight: 600;
+    color: #939393;
+    font-size: 14px;
+}
